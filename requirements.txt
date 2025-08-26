@@ -1,0 +1,4 @@
+pyperclip
+rich
+pytest
+cowsay
